@@ -136,7 +136,7 @@ Translates the analytical findings into prioritised actions with proposed timeli
 
 #### Page 2 — What's Causing It?
 
-![What's Causing It](screenshots/page_2_causes.png)
+![What's Causing It](screenshots/page_ 2_causes.png)
 
 #### Page 3 — What Should We Do?
 
