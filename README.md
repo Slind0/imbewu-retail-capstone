@@ -16,6 +16,14 @@ The analysis follows a structured business investigation:
 2. **What's causing it?**
 3. **What should we do?**
 
+### Dashboard Preview
+
+![What's the Problem](screenshots/page_1_problem.png)
+
+![What's Causing It](screenshots/page_2_causes.png)
+
+![What Should We Do](screenshots/page_3_actions.png)
+
 The objective was to identify where the revenue decline occurred, investigate the factors contributing to the decline, and translate the findings into practical, data-driven recommendations.
 
 ---
@@ -127,22 +135,6 @@ Examines basket behaviour, units sold, product categories and customer segments.
 ### What should we do?
 
 Translates the analytical findings into prioritised actions with proposed timelines.
-
-### Dashboard Preview
-
-#### Page 1 — What's the Problem?
-
-![What's the Problem](screenshots/page_1_problem.png)
-
-#### Page 2 — What's Causing It?
-
-![What's Causing It](screenshots/page_2_causes.png)
-
-#### Page 3 — What Should We Do?
-
-![What Should We Do](screenshots/page_3_actions.png)
-
----
 
 ## 🛠️ Technical Approach
 
